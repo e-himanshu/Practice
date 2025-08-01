@@ -1,0 +1,14 @@
+h3{
+    font-size: 40px;
+    font-family: arial;
+    color:green;
+
+}
+div{
+    background-color: red;
+    text-align: center;
+}
+table{
+    border-bottom: 2px solid;
+    text-align: left;
+}
